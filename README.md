@@ -1,4 +1,4 @@
-# cospiratory-cn
+# conspiratory-cn
 
 
 ## 介绍
@@ -11,14 +11,13 @@
 pip install conspira
 # 或者
 pip install -i https://pypi.org/simple/ conspira
-
 ```
 
 ## 使用方法
 
 ```
 # 导入包
-from conspira.detector  import ConspiracyDetector
+from conspira.detector import ConspiracyDetector
 
 # 创建识别器对象
 detector = ConspiracyDetector()
